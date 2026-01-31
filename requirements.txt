@@ -24,6 +24,8 @@
 # Backend
 fastapi
 uvicorn
+gunicorn
+
 pymongo
 chromadb>=0.6.0
 python-dotenv
